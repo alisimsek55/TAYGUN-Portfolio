@@ -1,0 +1,22 @@
+{
+  "sample_count": 6,
+  "duration_s": 10.0,
+  "max_sample_interval_s": 2.0,
+  "min_altitude_m": 0.0,
+  "max_altitude_m": 25.0,
+  "max_groundspeed_m_s": 12.0,
+  "mean_groundspeed_m_s": 6.333333333333333,
+  "mode_sample_counts": {
+    "CRUISE": 2,
+    "GROUND": 2,
+    "LANDING": 1,
+    "TAKEOFF": 1
+  },
+  "mode_durations_s": {
+    "CRUISE": 4.0,
+    "GROUND": 2.0,
+    "LANDING": 2.0,
+    "TAKEOFF": 2.0
+  },
+  "last_mode": "GROUND"
+}

@@ -1,0 +1,6 @@
+{"t_s": 0, "altitude_m": 0, "groundspeed_m_s": 0, "mode": "GROUND"}
+{"t_s": 2, "altitude_m": 12, "groundspeed_m_s": 8, "mode": "TAKEOFF"}
+{"t_s": 4, "altitude_m": 25, "groundspeed_m_s": 12, "mode": "CRUISE"}
+{"t_s": 6, "altitude_m": 25, "groundspeed_m_s": 12, "mode": "CRUISE"}
+{"t_s": 8, "altitude_m": 10, "groundspeed_m_s": 6, "mode": "LANDING"}
+{"t_s": 10, "altitude_m": 0, "groundspeed_m_s": 0, "mode": "GROUND"}
